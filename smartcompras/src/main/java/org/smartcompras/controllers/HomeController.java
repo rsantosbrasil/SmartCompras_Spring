@@ -12,7 +12,7 @@ public class HomeController {
 
 	public String index() {
 		
-		System.out.println("Carregando os livros ....");
+		System.out.println("Carregando os livros alterado ....");
 		
 		return "index";
 		
