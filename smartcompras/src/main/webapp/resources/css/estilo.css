@@ -1,0 +1,302 @@
+
+.container-fluid{
+	background-color:black;
+		font-family: 'Imprima', sans-serif;
+	
+}
+
+/* ------------------------------------------------------------------------------------------------------- */
+
+.section_topo {
+	height:100%;
+	background-image:url("../img/topo2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+ 
+ 
+}
+
+.section_topo p{
+	
+	font-family: 'Catamaran', sans-serif;
+	color:white;
+	font-size: 25px;	
+}
+.section_topo h1{
+	
+	font-family: 'Catamaran', sans-serif;
+	color:white;
+	font-size: 90pt;
+	margin-left: 3%;
+}
+
+.section_topo p{
+	margin-left:5%;
+	margin-right: 45%;	
+	display: block;
+}
+
+.btn-group{
+	float:right;
+	font-family: 'Imprima', sans-serif;
+}
+
+
+
+
+#redirect{
+	margin-top: 20%;
+	margin-left: 40%;
+}
+/* ------------------------------------------------------ Fim da formatação do topo --------------------------------------------------------------------- */
+
+
+.modal-header{
+	background-color:black;
+	color:white;
+	font-family: 'Imprima', sans-serif;
+}
+
+.modal-footer button{
+	border-radius:8px;	
+}
+
+.col-sm-4 {
+	font-family: 'Imprima', sans-serif;
+	height: 200px;
+	color:white;
+}
+
+#tserv{
+	height: 200px;
+	
+}
+.col-sm-4 h2 {
+	text-align: center;
+	font-size: 3em;
+
+	}
+.col-sm-4 p {
+	margin-top:5%;
+	text-align: center;
+	font-size: 1em;
+
+	}
+	
+.col-sm-4 img {
+	margin-top:5%;
+	padding-left: 25%;
+	}
+	
+	
+#linha{
+	
+	border-left-style: solid;
+	
+}
+/*--------------------------------------------------------- Fim Formatação Modal -------------------------------------------------------------------*/
+
+
+.social{
+	position: rigth;
+}
+
+.well{
+	background-color:black;
+	color:white;
+	font-family: 'Imprima', sans-serif;
+	margin-top: 2%;
+	
+	
+}
+
+#busca{
+	border-radius:8px;
+	margin-left: 5px;
+}
+
+.redes-sociais{
+	margin-right: 20px;
+}
+.redes-sociais img{
+	width: 2%;
+	height: 2%;
+	padding-left: 2px;
+	
+}
+#rodape ul {
+	
+	color: white;
+	
+	list-style:none;	
+	float:left;
+	
+	
+}
+#rodape ul li { 
+	display: inline; 
+	padding:10px;
+	margin:10px;
+}
+
+#redes-sociais{
+	margin-right:10px;
+	
+}
+
+.social{
+	position: rigth;
+}
+
+
+/* ------------------------------------------------- Fim Formatação Rodapé ------------------------------------------ */
+
+.logo-small{
+	color: #f4511e;
+    font-size: 90px;
+}
+
+.servicos span{
+	color: #f4511e;
+    font-size: 90px;
+}
+.servicos{
+	background-color: white;
+	color: black;
+}
+.servicos h4{
+	background-color: white;
+	color: #303030;
+}
+.servicos p{
+	background-color: white;
+	color: #303030;
+}
+.servicos h2{
+	background-color: black;
+	color: white;
+	margin-left: 0px;
+}
+.tam2{
+	margin-left:10%;
+	margin-top: 100px;	
+	width: 280px;
+}
+
+
+.tam{
+	margin-left:10%;
+	margin-top: 80px;	
+	width: 280px;
+}
+
+
+.tam img{
+	width:200px;
+	height:146px;
+	margin-left: 1%;
+	padding: 4%;
+}
+
+.panel-warning{
+	border:none;
+	margin-left: 5%
+}
+
+.panel-body{
+	color:black;
+}
+
+.panel-heading{
+	background-image: url("../img/topo2.jpg");
+}
+
+
+
+
+.equipe h4, h2{
+	color: white;
+	}
+
+.equipe h2{
+	
+}
+.l2{
+	
+	margin-left:18%;
+	margin-top: 400px;	
+	width: 280px;
+	
+}
+#home{
+	margin-top:2%;
+	float:right;
+}
+
+/* ---------------------------------------------------------Fim  Formatação Equipe e Serviços  -------------------------------------------------------------- */
+
+.section_sld{
+	margin-top: 2.5%;
+}
+
+.jumbotron {
+	 background-color: black;
+}
+
+.jumbotron h2{
+ 
+}
+
+.jumbotron p{
+	margin-left:5%;
+	margin-right: 45%;
+	margin-top:1%;	
+	display: block;
+	color:white;
+}
+
+.btn-group{
+	float:right;
+	font-family: 'Imprima', sans-serif;
+}
+
+#posicao_sld{
+	margin-left: 70%;
+	margin-top: -160px;
+	
+	}
+
+.rslides {
+  position: relative;
+  list-style: none;
+  overflow: hidden;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  }
+
+.rslides li {
+  -webkit-backface-visibility: hidden;
+  position: absolute;
+  display: none;
+  width: 100%;
+  left: 0;
+  top: 0;
+  }
+
+.rslides li:first-child {
+  position: relative;
+  display: block;
+  float: left;
+  }
+
+.rslides img {
+  display: block;
+  height: auto;
+  float: left;
+  width: 100%;
+  border: 0;
+  }
+
+
+
