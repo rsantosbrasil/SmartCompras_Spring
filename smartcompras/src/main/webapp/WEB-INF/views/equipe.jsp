@@ -49,7 +49,7 @@
 		    <p>Sistemas da Informação pela Unigranrio<br/>
       		Discente de Engenharia de Software com Java pela Faculdade Senac Rio<br/>
       		Atualmente Analista de Sistemas na Novo Horizonte Jacarepaguá Imp e Exp Ltda.</p>
-      		<br/><br/>
+      		<br/><br/><br/><br/>
 		  </div>
 	 </div>
       
@@ -64,7 +64,7 @@
 		    <p>Analise e Desenvolvimento de Sistemas pela Estácio <br/>
       		Discente de Engenharia de Software com Java pela Faculdade Senac Rio<br/>
       		Foi colaborador na Petrobrás, Administrador de Sistemas, Coordenador de Suporte e Consultor Técnico</p>
-		  <br/><br/>
+		  <br/><br/><br/>
 		  </div>
 	 </div>
       
@@ -91,12 +91,14 @@
     <div class="panel panel-warning">
 		  <div class="panel-heading">
 		    <h3 class="panel-title"><strong>Edilson Oliveira</strong></h3>
-		    <img src="resources/img/Renan.jpg">
+		    <img src="resources/img/Edilson.jpg">
 		  </div>
 		  <div class="panel-body">
-		    <p>Sistemas da Informação pela Unigranrio<br/>
+		    <p>Sistemas da Informação pela FIJ<br/>
       		Discente de Engenharia de Software com Java pela Faculdade Senac Rio<br/>
-      		Atualmente xxxxxxxxxxxxxxxxxxxxxxx na Cobra Tecnologia</p>
+      		Adminstrador de Sistemas Solaris pela BB Tecnologia
+      		Atualmente DBA na BB Tecnologia</p>
+      		<br/>
 		  </div>
 	 </div>
       
