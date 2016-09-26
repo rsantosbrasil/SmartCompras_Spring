@@ -25,10 +25,10 @@
 				</div>
 			
 			<ul class="nav navbar-nav">
-				<li class="active"><a href="#">Home</a></li>
+				<li class="active"><a href="home">Home</a></li>
 				<li><a href="#">Lista</a></li>
 				<li><a href="#">Localização</a></li>
-				<li><a href="#">Gráficos</a></li>
+				<li><a href="graficos">Gráficos</a></li>
 			</ul>
 			
 			<form class="navbar-form navbar-left" role="search">
@@ -43,7 +43,7 @@
 	
 			<ul class="nav navbar-nav navbar-right">
 				
-				<li><a href="index.jsp">
+				<li><a href="home">
 					
 					Logout
 				</a></li>

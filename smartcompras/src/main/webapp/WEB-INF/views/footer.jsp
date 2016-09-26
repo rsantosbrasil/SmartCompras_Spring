@@ -22,8 +22,8 @@
 		<ul>		
 			
 				<li><a href="team">Equipe</a></li>
-				<li><a href="#">Sobre</a></li>
-				<li>Desenvolvido por SmartGroup - Engenharia de Software Senac 2016.<a href="#"> Termo de uso</a> e <a>Privacidade</a> </li>
+				<li><a href="sobre">Sobre</a></li>
+				<li>Desenvolvido por SmartGroup - Engenharia de Software Senac 2016.<a href="uso"> Termo de uso</a> e <a>Privacidade</a> </li>
 					
 			</ul>
 			

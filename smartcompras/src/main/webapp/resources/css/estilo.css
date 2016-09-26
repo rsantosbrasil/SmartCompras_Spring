@@ -177,25 +177,25 @@
 	color: white;
 	margin-left: 0px;
 }
-.tam2{
-	margin-left:10%;
-	margin-top: 100px;	
-	width: 280px;
+ /* ------------------------------------- Equipe -------------------------------------- */
+
+.row{
+	
+	float: left;
+	padding-left: 7%;
+
 }
 
-
 .tam{
-	margin-left:10%;
-	margin-top: 80px;	
-	width: 280px;
+	width: 250px;
 }
 
 
 .tam img{
-	width:200px;
+	width:175px;
 	height:146px;
 	margin-left: 1%;
-	padding: 4%;
+	padding: 2%;
 }
 
 .panel-warning{
@@ -298,5 +298,50 @@
   border: 0;
   }
 
+/* -------------------------------- Sobre ---------------------------------- */
 
+blockquote{
+	
+	font-size: 21px;
+	color:white;
+	border-color: orange;
+	text-align: justify;
+	
+}
 
+/* ---------------------------- vertical --------------------------------- */
+
+#graf {
+      position: relative;
+  }
+  
+  ul.nav-pills {
+      top: 150px;
+      float:left;
+      left:0.5%;
+      padding: 40px;
+      position: fixed;
+      margin-top: 1%;
+  }
+  
+   .col-sm-3{
+  	top: 150px;
+  
+  }
+  
+  .bt{
+  	width: 150px;
+  }
+  
+  div.col-sm-9 div {
+  	 
+      height: 600px;
+      font-size: 20px;
+  }
+
+#section1{
+	margin-top	: 150px;
+	background-color: white;
+	width: 1200px;
+	margin-left: -150px;
+}
