@@ -16,25 +16,7 @@
 
 <jsp:include page="menu.jsp"></jsp:include>
 	<div class="container-fluid">
-		<div class="row" id="grafico">
-			<nav class="col-sm-3">
-			<ul class="nav nav-pills nav-stacked">
-				<li class="active bt"><a href="#">Grafico 1</a></li>
-				<li class="active bt"><a href="#">Grafico 2</a></li>
-				<li class="active bt"><a href="#">Grafico 3</a></li>
-				<li class="active bt"><a href="#">Grafico 4</a></li>
-			</ul>
-			</nav>
-
-			<div class="col-sm-9">	
-				<div id="section1">
-					<h1>Section 1</h1>
-					<p>Try to scroll this page and look at the navigation list
-						while scrolling!</p>
-				</div>
-				
-			</div>
-		</div>
+		
 
 
 	</div>

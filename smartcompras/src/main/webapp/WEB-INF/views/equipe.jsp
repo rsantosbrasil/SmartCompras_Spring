@@ -29,7 +29,7 @@
 		<br>
 	
 		<div class="row">
-			<div class="col-sm-2 tam">
+			<div class="col-sm-2">
 				<div class="panel panel-warning">
 					<div class="panel-heading">
 						<h3 class="panel-title">
@@ -47,7 +47,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-2 tam">
+			<div class="col-sm-2">
 
 				<div class="panel panel-warning">
 					<div class="panel-heading">
@@ -63,14 +63,12 @@
 							Atualmente Analista de Sistemas na Novo Horizonte Jacarepaguá Imp
 							e Exp Ltda.
 						</p>
-						<br />
-						<br/>
 						
 					</div>
 				</div>
 
 			</div>
-			<div class="col-sm-2 tam">
+			<div class="col-sm-2">
 				<div class="panel panel-warning">
 					<div class="panel-heading">
 						<h3 class="panel-title">
@@ -85,11 +83,11 @@
 							Rio<br /> Foi colaborador na Petrobrás, Administrador de
 							Sistemas, Coordenador de Suporte e Consultor Técnico
 						</p>
-						<br/>
+						
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-2 tam">
+			<div class="col-sm-2">
 				<div class="panel panel-warning">
 					<div class="panel-heading">
 						<h3 class="panel-title">
@@ -107,7 +105,7 @@
 					</div>
 				</div>
 			</div>
-			<div class="col-sm-2 tam" >
+			<div class="col-sm-2" >
 
 				<div class="panel panel-warning">
 					<div class="panel-heading">
@@ -123,8 +121,7 @@
 							Sistemas Solaris pela BB Tecnologia Atualmente DBA na BB
 							Tecnologia
 						</p>
-						<br />
-						<br/>
+						
 					</div>
 				</div>
 			</div>

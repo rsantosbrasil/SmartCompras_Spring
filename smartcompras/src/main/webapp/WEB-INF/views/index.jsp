@@ -210,36 +210,37 @@
   <h2>SERVIÇOS</h2>
   <h4>Integração de serviçso inteligente e tecnologia de ponta</h4>
   <br>
-  <div class="row">
-    <div class="col-sm-4 tam" id="tserv">
+  
+  <div class="rows">
+    <div class="col-sm-4" id="tserv">
       <span class="glyphicon glyphicon-list-alt logo-small"></span>
       <h4>Favoritos</h4>
       <p>Utilize nossas listas pré-definidas</p>
     </div>
-    <div class="col-sm-4 tam">
+    <div class="col-sm-4">
       <span class="glyphicon glyphicon-signal logo-small"></span>
       <h4>Gráficos</h4>
       <p>Gráficos de acompanhamento de gastos</p>
     </div>
-    <div class="col-sm-4 tam">
+    <div class="col-sm-4">
       <span class="glyphicon glyphicon-map-marker logo-small"></span>
       <h4>Localize</h4>
       <p>Encontre a rota para as ofertas escolhidas</p>
     </div>
   </div>
    		
-  <div class="row">
-    <div class="col-sm-4 tam2">
+  <div class="rows">
+    <div class="col-sm-4">
       <span class="glyphicon glyphicon-edit logo-small"></span>
       <h4>Preferencias</h4>
       <p>Configure suas listas</p>
     </div>
-    <div class="col-sm-4 tam2">
+    <div class="col-sm-4">
       <span class="glyphicon glyphicon-share logo-small"></span>
       <h4>Compartilhe</h4>
       <p>Compartilhe suas listas com amigos</p>
     </div>
-    <div class="col-sm-4 tam2">
+    <div class="col-sm-4">
       <span class="glyphicon glyphicon-piggy-bank logo-small"></span>
       <h4>Econonize</h4>
       <p>Busque as melhores ofertas com menores valores</p>
@@ -267,7 +268,7 @@
    <!--  <h1>ResponsiveSlides.js</h1>
     <h2>Simple &amp; lightweight responsive slideshow plugin (in 1kb)</h2> -->
 
-<div id="posicao_sld">
+<div class="posicao_sld">
     <ul class="rslides" id="slider1">
       <li><img src="resources/img/graficos.jpg" alt=""></li>
       <li><img src="resources/img/carrinho.jpg" alt=""></li>
@@ -276,7 +277,7 @@
     <br/>
 </div> 
   
-  <p><a class="btn btn-primary ">Saiba Mais</a></p>
+  <p id=botao><a class="btn btn-primary ">Saiba Mais</a></p>
 
 </div>
 
