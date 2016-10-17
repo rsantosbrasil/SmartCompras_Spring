@@ -1,8 +1,8 @@
-package org.smartcompras.models;
+package org.smartcompras.dao;
 
 import java.util.List;
 
-import org.smartcompras.dao.MarcaDAO;
+import org.smartcompras.models.Marca;
 
 public class TesteMongoDB {
 
@@ -12,7 +12,7 @@ public class TesteMongoDB {
 	}
 
 	private static void save() {
-		Marca marca1 = new Marca("União");
+		Marca marca1 = new Marca("02", "Barra");
 		new MarcaDAO().save(marca1);
 
 		List<Marca> marcas = new MarcaDAO().findMarcas();

@@ -1,4 +1,4 @@
-package org.smartcompras.models;
+package org.smartcompras.dao;
 
 import java.util.List;
 import java.util.Map;

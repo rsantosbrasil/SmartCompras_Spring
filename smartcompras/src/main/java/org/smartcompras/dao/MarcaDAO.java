@@ -1,8 +1,11 @@
-package org.smartcompras.models;
+package org.smartcompras.dao;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
+
+import org.smartcompras.models.Marca;
+import org.smartcompras.models.MarcaConvert;
 
 import com.mongodb.DBObject;
 
@@ -19,9 +22,9 @@ public class MarcaDAO extends EntityDAO<Marca> {
 		save(mapMarca);
 	}
 
-	public void update(Marca oldPerson, Marca newMarca) {
+	public void update(Marca oldMarca, Marca newMarca) {
 
-		Map<String, Object> query = new MarcaConvert().converterToMap(oldPerson);
+		Map<String, Object> query = new MarcaConvert().converterToMap(oldMarca);
 		Map<String, Object> map = new MarcaConvert().converterToMap(newMarca);
 
 		update(query, map);
