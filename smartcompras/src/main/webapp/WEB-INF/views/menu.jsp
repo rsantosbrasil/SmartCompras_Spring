@@ -34,7 +34,7 @@
 			<li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Gráficos
 					<span class="caret"></span></a>
 				<ul class="dropdown-menu" role="menu">
-					<li><a href="#">Acumulado do Ano</a></li>
+					<li><a href="gastos">Acumulado do Ano</a></li>
 					<li><a href="#">Maior Gasto</a></li>
 					<li><a href="#">Menor Gasto</a></li>
 				</ul>

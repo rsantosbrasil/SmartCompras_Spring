@@ -23,37 +23,9 @@
 
 
 <div class="conteudo">
-	<div class="container">
+	<div class="meio">
 	
 	
-	<p>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-
-	<br>
-	<br>
-	<br>
-	</p>
 	
 	
 	
